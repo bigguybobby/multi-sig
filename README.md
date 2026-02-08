@@ -44,3 +44,7 @@ ms.execute(txId);
 ## License
 
 MIT
+
+## Deployment
+
+- **Celo Sepolia**: `0xbE4A36586b53F5dE34F48fe1E43CAAbeD9646251`
